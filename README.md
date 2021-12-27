@@ -1,1 +1,1 @@
-# trex2
+This is Trex Runner game
